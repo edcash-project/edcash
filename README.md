@@ -4,7 +4,7 @@ EdCash (EDC) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
-  with a collateral of 2,500 EDC.
+  with a collateral of 25,000 EDC.
 
 More information at [edcash.com.br](http://www.edcash.com.br
 
