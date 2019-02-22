@@ -5,6 +5,7 @@ EdCash (EDC) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s 
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
   with a collateral of 25,000 EDC.
+  masternode autoinstall https://github.com/edcash-project/masternode
 
 More information at [edcash.com.br](http://www.edcash.com.br
 
